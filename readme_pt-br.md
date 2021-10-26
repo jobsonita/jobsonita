@@ -43,7 +43,7 @@
 - 👨‍🎓 Sou Engenheiro da Computação, formado no [ITA](http://www.ita.br/info)
 - 📖 Estou estudando programação web através dos cursos oferecidos pela [Rocketseat](https://github.com/rocketseat) (focado em Node, React, React Native e Elixir)
 - ⚛️ Eu estou curtindo bastante o desenvolvimento web e mobile com React
-- 🎮 Estou desenvolvendo um [jogo em Unity](https://drive.google.com/file/d/1zDNsz3sbpgc8gMA-4fVcapEDJRo-nX2c/view?usp=sharing) (atualmente, apenas um protótipo nos estágios iniciais)
+- 🎮 Estou desenvolvendo um [jogo em Unity](https://drive.google.com/file/d/1zDNsz3sbpgc8gMA-4fVcapEDJRo-nX2c/view?usp=sharing) (atualmente, apenas um protótipo nos estágios iniciais, pretendo fazer uma continuação de Alundra)
 - 🚁 Estou bastante interessado em [drones](https://drive.google.com/drive/folders/1b-6wMTxkqEFtZtCl6fXuTF4fApdZwpdK?usp=sharing)
 - 👷‍♂️ Me sinto confortável em programar em JavaScript/TypeScript e C#, mas também trabalhei com C/C++, Java e Python nesses últimos anos
 
