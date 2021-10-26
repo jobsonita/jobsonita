@@ -1,4 +1,4 @@
-> **English** | [Portuguese](readme_pt-br.md)
+> **English** | [Português](readme_pt-br.md)
 
 <p align="center">
   <a href="https://nodejs.org/en/about/" >
