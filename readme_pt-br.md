@@ -40,7 +40,7 @@
 
 ## Bem vindo ao repositório de Jobson Gilberto :wave:
 
-- 👨‍🎓 Sou Engenheiro da Computação, formado no [ITA](http://www.ita.br/info)
+- 👨‍🎓 Sou Engenheiro de Computação, formado no [ITA](http://www.ita.br/info)
 - 📖 Estou estudando programação web através dos cursos oferecidos pela [Rocketseat](https://github.com/rocketseat) (focado em Node, React, React Native e Elixir)
 - ⚛️ Eu estou curtindo bastante o desenvolvimento web e mobile com React
 - 🎮 Estou desenvolvendo um [jogo em Unity](https://drive.google.com/file/d/1zDNsz3sbpgc8gMA-4fVcapEDJRo-nX2c/view?usp=sharing) (atualmente, apenas um protótipo nos estágios iniciais, pretendo fazer uma continuação de Alundra)
