@@ -49,7 +49,7 @@
 
 ## Welcome to Jobson Gilberto's repository :wave:
 
-- 👨‍🎓 I'm a Computer Engineer graduated at [Instituto Tecnológico da Aeronáutica](http://www.ita.br/info) (ITA) in Brazil
+- 👨‍🎓 I'm a Computer Engineer graduated at [Instituto Tecnológico de Aeronáutica](http://www.ita.br/info) (ITA) in Brazil
 - 📖 I'm currently studying web programming through [Rocketseat](https://github.com/rocketseat)'s courses (focused on Node, React, React Native and Elixir)
 - ⚛️ I'm really enjoying web and mobile development with React
 - 🎮 I'm developing a [game in Unity](https://drive.google.com/file/d/1zDNsz3sbpgc8gMA-4fVcapEDJRo-nX2c/view?usp=sharing) (currently just a prototype in its early stages, intended to be a sequel to Alundra)
