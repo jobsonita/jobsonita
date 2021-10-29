@@ -1,40 +1,50 @@
 > [English](README.md) | **Português**
 
+
 <p align="center">
-  <a href="https://nodejs.org/pt-br/about/" >
-    <img alt="Node" align="center" src="https://badgen.net/badge/icon/NodeJS?label" />
+  <a href="https://nodejs.org/en/about/" >
+    <img alt="NodeJS" title="Node JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   </a>
   &nbsp;
-  <a href="https://www.typescriptlang.org/pt/" >
-    <img alt="TypeScript" align="center" src="https://badgen.net/badge/icon/TypeScript?label" />
+  <a href="https://www.typescriptlang.org/" >
+    <img alt="TypeScript" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   </a>
   &nbsp;
-  <a href="https://pt-br.reactjs.org/" >
-    <img alt="React" align="center" src="https://badgen.net/badge/icon/React?label" />
+  <a href="https://reactjs.org/" >
+    <img alt="React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  </a>
+  &nbsp;
+  <a href="https://dev.w3.org/html5/spec-LC/" >
+    <img alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  </a>
+  &nbsp;
+  <a href="https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/" >
+    <img alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
   &nbsp;
   <a href="https://reactnative.dev/" >
-    <img alt="React Native" align="center" src="https://badgen.net/badge/icon/React%20Native?label" />
+    <img alt="React Native - Android" title="React Native - Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
+    <img alt="React Native - iOS" title="React Native - iOS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
   </a>
   &nbsp;
-  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/" >
-    <img alt="C#" align="center" src="https://badgen.net/badge/icon/C%23?label" />
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" >
+    <img alt="C#" title="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </a>
   &nbsp;
-  <a href="https://docs.microsoft.com/pt-br/dotnet/core/introduction" >
-    <img alt=".NET" align="center" src="https://badgen.net/badge/icon/.NET?label" />
+  <a href="https://docs.microsoft.com/en-us/dotnet/core/introduction" >
+    <img alt=".NET" title=".NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   </a>
   &nbsp;
-  <a href="https://azure.microsoft.com/pt-br/overview/" >
-    <img alt="Azure" align="center" src="https://badgen.net/badge/icon/Azure?label" />
+  <a href="https://azure.microsoft.com/en-us/overview/" >
+    <img alt="Azure" title="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   </a>
   &nbsp;
   <a href="https://elixir-lang.org/" >
-    <img alt="Elixir" align="center" src="https://badgen.net/badge/icon/Elixir?label" />
+    <img alt="Elixir" title="Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
   </a>
   &nbsp;
   <a href="https://www.phoenixframework.org/" >
-    <img alt="Phoenix" align="center" src="https://badgen.net/badge/icon/Phoenix?label" />
+    <img alt="Phoenix" title="Phoenix" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg">
   </a>
 </p>
 
