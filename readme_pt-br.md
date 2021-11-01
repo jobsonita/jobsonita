@@ -57,7 +57,7 @@
 - 🚁 Estou bastante interessado em [drones](https://drive.google.com/drive/folders/1b-6wMTxkqEFtZtCl6fXuTF4fApdZwpdK?usp=sharing)
 - 👷‍♂️ Me sinto confortável em programar em JavaScript/TypeScript e C#, mas também trabalhei com C/C++, Java e Python nesses últimos anos
 
-[![Contate-me por e-mail](https://img.shields.io/badge/-Gmail-060606?style=flat&labelColor=0D0D0D&logo=gmail&Color=white)](mailto:jobsonita@gmail.com)&nbsp;[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/jobson-gilberto/)&nbsp;[![Meus projetos nos meus hobbies](https://img.shields.io/badge/-Meu%20GitHub%204fun-060606?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/blowita)
+[![Contate-me por e-mail](https://img.shields.io/badge/-Gmail-060606?style=flat&labelColor=0D0D0D&logo=gmail&Color=white)](mailto:jobsonita@gmail.com)&nbsp;[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/jobson-gilberto/)&nbsp;[![BossaBox](bossabox.svg)](https://app.bossabox.com/u/jobson-amorim)&nbsp;[![Meus projetos nos meus hobbies](https://img.shields.io/badge/-Meu%20GitHub%204fun-060606?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/blowita)
 
 <p align="center">
   <a href="#">
