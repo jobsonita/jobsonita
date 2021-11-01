@@ -56,7 +56,7 @@
 - 🚁 I'm quite interested in [drones](https://drive.google.com/drive/folders/1b-6wMTxkqEFtZtCl6fXuTF4fApdZwpdK?usp=sharing)
 - 👷‍♂️ I'm quite comfortable with JavaScript/TypeScript and C#, but I've also worked with C/C++, Java and Python in recent past
 
-[![Mail me](https://img.shields.io/badge/-Gmail-060606?style=flat&labelColor=0D0D0D&logo=gmail&Color=white)](mailto:jobsonita@gmail.com)&nbsp;[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/jobson-gilberto/)&nbsp;[![BossaBox](bossabox.svg)](https://app.bossabox.com/u/jobson-amorim)&nbsp;[![My github for my hobby projects](https://img.shields.io/badge/-My%204fun%20GitHub-060606?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/blowita)
+[![Mail me](https://img.shields.io/badge/-Gmail-060606?style=flat&labelColor=0D0D0D&logo=gmail&Color=white)](mailto:jobsonita@gmail.com)&nbsp;[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/jobson-gilberto/)&nbsp;[![BossaBox](.github/bossabox.svg)](https://app.bossabox.com/u/jobson-amorim)&nbsp;[![My github for my hobby projects](https://img.shields.io/badge/-My%204fun%20GitHub-060606?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/blowita)
 
 <p align="center">
   <a href="#">
